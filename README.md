@@ -1,6 +1,6 @@
 # 👋 Vidhi Gandhi
 
-### 🚀 AI/ML Engineer | RAG Systems | Transformer Models
+### 🚀 AI/ML Engineer | RAG Systems | Transformer Models | GSSoC 2026 Contributor
 
 I build **end-to-end AI systems** that solve real-world problems from **LLM-powered applications** to **sequence-based recommendation systems**.
 
