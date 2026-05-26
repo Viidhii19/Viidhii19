@@ -1,4 +1,4 @@
-# 👋 Vidhi Gandhi
+# Hi!👋 I'm Vidhi Gandhi
 
 ### 🚀 AI/ML Engineer | RAG Systems | Transformer Models | GSSoC 2026 Contributor
 
