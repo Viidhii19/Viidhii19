@@ -1,90 +1,193 @@
-# Hi!👋 I'm Vidhi Gandhi
+# Hi there, I'm Vidhi Gandhi 👋
 
-### 🚀 AI/ML Engineer | RAG Systems | Transformer Models | GSSoC 2026 Contributor
+## AI/ML Engineer | Generative AI | Applied AI | GSSoC 2026 Contributor
 
-I build **end-to-end AI systems** that solve real-world problems from **LLM-powered applications** to **sequence-based recommendation systems**.
+I'm a Computer Science graduate passionate about building production-ready AI applications using LLMs, Computer Vision, and Machine Learning.
 
-Focused on turning models into **usable, scalable products**, not just experiments.
-
----
-
-## 🔥 What I Do
-
-* Design and build **RAG-based AI systems** with grounded outputs
-* Develop **Transformer-based recommendation models** for sequential prediction
-* Work on **Computer Vision systems** (YOLO, OpenCV) for real-world automation
-* Build **backend APIs** using FastAPI for deploying AI models
+My focus is on solving practical problems by combining AI models with scalable backend systems, APIs, and modern software engineering practices.
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 About Me
 
-### 🍽️ Restaurant Review Intelligence System (RAG)
-
-* Built an **end-to-end RAG pipeline** using LLaMA + ChromaDB
-* Enables natural-language queries over thousands of real reviews
-* Produces **evidence-backed insights (no hallucination)**
-
-👉 Focus: LLM reliability, semantic retrieval, real-world usability
+- 🎓 B.Tech in Computer Science Engineering
+- 🤖 AI/ML Internship Experience
+- 🌱 GirlScript Summer of Code 2026 Contributor
+- 💻 Passionate about Applied AI, LLMs, RAG, AI Agents, and Backend Development
 
 ---
 
-### 🎬 Transformer-Based Movie Recommendation System
+# What I Build
 
-* Designed a **sequence-aware recommender** using Transformer architecture
-* Modeled user behavior like GPT-style next-token prediction
-* Captures **temporal patterns in user preferences**
+### 🧠 Large Language Model Applications
 
-👉 Focus: Deep learning fundamentals, sequence modeling
-
----
-
-### 🤖 Customer Support Chatbot (RAG + Embeddings)
-
-* Built an intelligent chatbot using **LangChain + FAISS + Gemini**
-* Retrieves relevant context before generating responses
-* Supports dynamic knowledge base updates
+- Retrieval-Augmented Generation (RAG)
+- AI Chatbots
+- Knowledge Assistants
+- Prompt Engineering
+- FastAPI-based AI Services
 
 ---
 
-### 👁️ PDF Pattern Detection System (YOLO + OpenCV)
+### 🤖 Machine Learning
 
-* Developed a system to detect and extract structured fields from PDFs
-* Applied computer vision techniques for real-world document processing
-
----
-
-## 🧠 Tech Stack
-
-* **Languages**: Python, Java
-* **AI/ML**: PyTorch, Transformers, YOLO, OpenCV
-* **LLM Stack**: LangChain, Ollama, FAISS, ChromaDB
-* **Backend**: FastAPI, REST APIs
-* **Tools**: Git, Streamlit
+- Transformer-based Recommendation Systems
+- Classification Models
+- Recommendation Systems
+- Model Evaluation
+- Feature Engineering
 
 ---
 
-## 💼 Experience
+### 👁️ Computer Vision
 
-**AI/ML Intern — Param Group of Companies**
-
-* Built production-oriented AI systems across CV and LLM domains
-* Worked on automation and real-world deployment pipelines
-
----
-
-## 📌 What Sets Me Apart
-
-* I build **complete systems**, not isolated models
-* Strong focus on **practical AI (RAG, pipelines, APIs)**
-* Ability to connect **ML concepts → real applications**
+- YOLO-based Object Detection
+- PDF Document Intelligence
+- OpenCV Automation
+- Image Processing
 
 ---
 
-## 📫 Let’s Connect
+### ⚙️ Backend Development
 
-* GitHub: https://github.com/Viidhii19
+- FastAPI
+- REST APIs
+- Python
+- API Integration
+- Streamlit Applications
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viidhii19&label=Profile%20views&color=0e75b6&style=flat" alt="viidhii19" /> </p>  
+# Featured Projects
 
+## 🍽️ Restaurant Review Intelligence System
+
+**Tech Stack**
+
+`Python` `LLaMA` `ChromaDB` `RAG`
+
+An end-to-end Retrieval-Augmented Generation system that enables natural language search over restaurant reviews while providing grounded, evidence-based responses.
+
+**Highlights**
+
+- Semantic Retrieval
+- Hallucination Reduction
+- Context-Aware Responses
+
+---
+
+## 🎬 Transformer-Based Movie Recommendation System
+
+**Tech Stack**
+
+`PyTorch` `Transformers`
+
+Designed a Transformer architecture that models user viewing history as sequential tokens to predict future movie preferences.
+
+**Highlights**
+
+- Sequential Recommendation
+- Attention Mechanism
+- Deep Learning
+
+---
+
+## 💬 Customer Support AI Assistant
+
+**Tech Stack**
+
+`LangChain` `FAISS` `Gemini API`
+
+Built a Retrieval-Augmented chatbot capable of answering questions using custom enterprise knowledge.
+
+**Highlights**
+
+- RAG Pipeline
+- Embeddings
+- Context Retrieval
+
+---
+
+## 📄 PDF Pattern Detection System
+
+**Tech Stack**
+
+`YOLO` `OpenCV`
+
+Developed a Computer Vision system capable of detecting and extracting structured information from engineering PDF documents.
+
+---
+
+# Tech Stack
+
+### Languages
+
+- Python
+- Java
+- SQL
+
+### AI / ML
+
+- PyTorch
+- Transformers
+- LangChain
+- FAISS
+- ChromaDB
+- Ollama
+- OpenCV
+- YOLO
+
+### Backend
+
+- FastAPI
+- REST APIs
+
+### Tools
+
+- Git
+- GitHub
+- Streamlit
+- VS Code
+
+---
+
+# Experience
+
+## AI/ML Intern — Param Group of Companies
+
+Worked on multiple production-oriented AI projects involving:
+
+- Large Language Models
+- Retrieval-Augmented Generation
+- Computer Vision
+- Recommendation Systems
+- Backend API Development
+
+---
+
+# Open Source
+
+## GirlScript Summer of Code 2026
+
+Contributing to open-source AI projects through GitHub by improving features, fixing bugs, and collaborating with maintainers.
+
+---
+
+# Currently Exploring
+
+- AI Agents
+- LangGraph
+- MCP
+- Multi-Agent Systems
+- LLM Evaluation
+- MLOps
+
+---
+
+# Let's Connect
+
+- 💻 GitHub: https://github.com/Viidhii19
+
+---
+
+![](https://komarev.com/ghpvc/?username=Viidhii19&label=Profile+Views&color=0e75b6&style=flat)
