@@ -1,193 +1,151 @@
-# Hi there, I'm Vidhi Gandhi 👋
+# Hey, I'm Vidhi Gandhi 👋
 
-## AI/ML Engineer | Generative AI | Applied AI | GSSoC 2026 Contributor
+### Applied AI Engineer | Generative AI · LLMs · RAG · Python
 
-I'm a Computer Science graduate passionate about building production-ready AI applications using LLMs, Computer Vision, and Machine Learning.
+I build AI-powered applications that connect machine learning with practical software engineering. My interests include LLM applications, retrieval-augmented generation, computer vision, intelligent automation, and backend systems.
 
-My focus is on solving practical problems by combining AI models with scalable backend systems, APIs, and modern software engineering practices.
+I enjoy turning ideas into working products—from AI prototypes and knowledge assistants to complete web applications.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Viidhi19-181717?style=for-the-badge&logo=github)](https://github.com/Viidhii19)
+[![Open Source](https://img.shields.io/badge/Open%20Source-GSSoC%202026-orange?style=for-the-badge)](https://github.com/Viidhii19)
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science Engineering
-- 🤖 AI/ML Internship Experience
-- 🌱 GirlScript Summer of Code 2026 Contributor
-- 💻 Passionate about Applied AI, LLMs, RAG, AI Agents, and Backend Development
+- 🎓 Computer Science Engineering graduate
+- 🤖 Hands-on experience through AI/ML and software engineering internships
+- 🌱 GirlScript Summer of Code 2026 contributor
+- 🧠 Interested in Applied AI, Generative AI, RAG, LLM applications, and computer vision
+- ⚙️ Enjoy building Python backends, REST APIs, and AI-powered products
+- 🔍 Currently strengthening my knowledge of AI systems, software engineering, and intelligent automation
 
 ---
 
-# What I Build
+## 🛠️ What I Build
 
-### 🧠 Large Language Model Applications
-
-- Retrieval-Augmented Generation (RAG)
-- AI Chatbots
-- Knowledge Assistants
-- Prompt Engineering
-- FastAPI-based AI Services
+- **Generative AI & LLMs:** AI assistants, chatbots, RAG pipelines, and knowledge assistants
+- **Machine Learning:** Recommendation systems, classification, and model evaluation
+- **Computer Vision:** Object detection, image processing, and document intelligence
+- **Backend Engineering:** Python services, FastAPI applications, and REST APIs
+- **AI-Powered Applications:** Integrating AI models with databases, APIs, and modern interfaces
 
 ---
 
-### 🤖 Machine Learning
-
-- Transformer-based Recommendation Systems
-- Classification Models
-- Recommendation Systems
-- Model Evaluation
-- Feature Engineering
-
----
-
-### 👁️ Computer Vision
-
-- YOLO-based Object Detection
-- PDF Document Intelligence
-- OpenCV Automation
-- Image Processing
-
----
-
-### ⚙️ Backend Development
-
-- FastAPI
-- REST APIs
-- Python
-- API Integration
-- Streamlit Applications
-
----
-
-# Featured Projects
-
-## 🍽️ Restaurant Review Intelligence System
-
-**Tech Stack**
-
-`Python` `LLaMA` `ChromaDB` `RAG`
-
-An end-to-end Retrieval-Augmented Generation system that enables natural language search over restaurant reviews while providing grounded, evidence-based responses.
-
-**Highlights**
-
-- Semantic Retrieval
-- Hallucination Reduction
-- Context-Aware Responses
-
----
-
-## 🎬 Transformer-Based Movie Recommendation System
-
-**Tech Stack**
-
-`PyTorch` `Transformers`
-
-Designed a Transformer architecture that models user viewing history as sequential tokens to predict future movie preferences.
-
-**Highlights**
-
-- Sequential Recommendation
-- Attention Mechanism
-- Deep Learning
-
----
-
-## 💬 Customer Support AI Assistant
-
-**Tech Stack**
-
-`LangChain` `FAISS` `Gemini API`
-
-Built a Retrieval-Augmented chatbot capable of answering questions using custom enterprise knowledge.
-
-**Highlights**
-
-- RAG Pipeline
-- Embeddings
-- Context Retrieval
-
----
-
-## 📄 PDF Pattern Detection System
-
-**Tech Stack**
-
-`YOLO` `OpenCV`
-
-Developed a Computer Vision system capable of detecting and extracting structured information from engineering PDF documents.
-
----
-
-# Tech Stack
+## 💻 Tech Stack
 
 ### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-- Python
-- Java
-- SQL
+### AI / ML / Generative AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 
-### AI / ML
+### RAG & AI Tools
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-00599C?style=flat)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Database-FF6F61?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-black?style=flat)
 
-- PyTorch
-- Transformers
-- LangChain
-- FAISS
-- ChromaDB
-- Ollama
-- OpenCV
-- YOLO
+### Web & Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-### Backend
-
-- FastAPI
-- REST APIs
-
-### Tools
-
-- Git
-- GitHub
-- Streamlit
-- VS Code
-
----
-
-# Experience
-
-## AI/ML Intern — Param Group of Companies
-
-Worked on multiple production-oriented AI projects involving:
-
-- Large Language Models
-- Retrieval-Augmented Generation
-- Computer Vision
-- Recommendation Systems
-- Backend API Development
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# Open Source
+## 🌟 Featured Projects
 
-## GirlScript Summer of Code 2026
+### 🍽️ Restaurant Review Intelligence System
+A retrieval-augmented generation application for exploring restaurant reviews and generating context-aware answers.
 
-Contributing to open-source AI projects through GitHub by improving features, fixing bugs, and collaborating with maintainers.
+**Tech:** Python · RAG · ChromaDB · Ollama
+
+### 🎬 Transformer-Based Movie Recommendation System
+A recommendation project exploring transformer-based representations and personalized movie discovery.
+
+**Tech:** Python · PyTorch · Transformers
+
+### 🤖 Customer Support AI Assistant
+An AI-powered assistant that retrieves relevant information and generates responses using a knowledge base.
+
+**Tech:** LangChain · FAISS · Gemini API · Streamlit
+
+### 📄 PDF Pattern Detection System
+A computer vision project focused on detecting and searching for visual patterns in PDF documents.
+
+**Tech:** Python · YOLO · OpenCV
+
+### 🔐 AI Smart Contract Auditor
+An AI-focused project exploring automated analysis of smart contracts and potential code issues.
+
+**Tech:** AI · Python · LLM Applications
+
+### 🌐 AI-Powered Web Applications
+Building web applications that combine modern interfaces, backend APIs, databases, and AI capabilities.
+
+**Tech:** React · JavaScript · Python · APIs
 
 ---
 
-# Currently Exploring
+## 💼 Experience
 
-- AI Agents
-- LangGraph
-- MCP
-- Multi-Agent Systems
-- LLM Evaluation
-- MLOps
+**AI/ML Intern — Param Group of Companies**
 
----
+- Exploring and developing practical AI/ML solutions.
+- Applying programming and problem-solving skills to technical projects.
+- Awarded as Best Scincere Intern.
 
-# Let's Connect
 
-- 💻 GitHub: https://github.com/Viidhii19
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Viidhii19&label=Profile+Views&color=0e75b6&style=flat)
+## 🌱 Open Source
+
+- GirlScript Summer of Code (GSSoC) 2026 contributor
+- Interested in collaborating on AI/ML, Generative AI, Python, and open-source projects.
+
+---
+
+## 🔭 Currently Exploring
+
+- AI agents and tool-calling workflows
+- Model evaluation and reliable LLM applications
+- Model Context Protocol (MCP)
+- Scalable AI application architecture
+- Machine learning systems and deployment
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viidhii19&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Viidhii19&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Viidhii19&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+- 💻 GitHub: [@Viidhii19](https://github.com/Viidhii19)
+
+I'm interested in opportunities and collaborations involving Applied AI, Generative AI, LLM applications, machine learning, and intelligent automation.
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Viidhii19&color=blueviolet&style=flat-square&label=Profile+Views)
